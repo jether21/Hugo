@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dandadan on JetherSite</title>
-    <link>http://localhost:1313/tags/dandadan/</link>
+    <link>//localhost:1313/tags/dandadan/</link>
     <description>Recent content in Dandadan on JetherSite</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/tags/dandadan/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/dandadan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dandadan</title>
-      <link>http://localhost:1313/content/posts/markdown-syntax/</link>
+      <link>//localhost:1313/content/posts/markdown-syntax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/content/posts/markdown-syntax/</guid>
+      <guid>//localhost:1313/content/posts/markdown-syntax/</guid>
       <description>Anime and Manga Details</description>
     </item>
   </channel>

@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Manga on JetherSite</title>
-    <link>http://localhost:1313/tags/manga/</link>
+    <link>//localhost:1313/tags/manga/</link>
     <description>Recent content in Manga on JetherSite</description>
     <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/tags/manga/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/manga/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ao Ashi</title>
-      <link>http://localhost:1313/content/search.fr/</link>
+      <link>//localhost:1313/content/search.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/content/search.fr/</guid>
+      <guid>//localhost:1313/content/search.fr/</guid>
       <description>The Beautiful Game, Reimagined</description>
     </item>
     <item>
       <title>Berserk</title>
-      <link>http://localhost:1313/content/posts/markdown-syntax.fr/</link>
+      <link>//localhost:1313/content/posts/markdown-syntax.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/content/posts/markdown-syntax.fr/</guid>
+      <guid>//localhost:1313/content/posts/markdown-syntax.fr/</guid>
       <description>Anime and Manga Details</description>
     </item>
     <item>
       <title>BLAME!</title>
-      <link>http://localhost:1313/content/posts/rich-content/</link>
+      <link>//localhost:1313/content/posts/rich-content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/content/posts/rich-content/</guid>
+      <guid>//localhost:1313/content/posts/rich-content/</guid>
       <description>Cyberpunk and Sci-Fi Epic</description>
     </item>
     <item>
       <title>Dandadan</title>
-      <link>http://localhost:1313/content/posts/markdown-syntax/</link>
+      <link>//localhost:1313/content/posts/markdown-syntax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/content/posts/markdown-syntax/</guid>
+      <guid>//localhost:1313/content/posts/markdown-syntax/</guid>
       <description>Anime and Manga Details</description>
     </item>
     <item>
       <title>Dr. Stone</title>
-      <link>http://localhost:1313/content/archives/</link>
+      <link>//localhost:1313/content/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/content/archives/</guid>
+      <guid>//localhost:1313/content/archives/</guid>
       <description>The Tale of Science and Survival</description>
     </item>
     <item>
       <title>Goodnight Punpun</title>
-      <link>http://localhost:1313/content/search/</link>
+      <link>//localhost:1313/content/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/content/search/</guid>
+      <guid>//localhost:1313/content/search/</guid>
       <description>A reflection on the bittersweet journey of Punpun Punyama</description>
     </item>
     <item>
       <title>JoJo&#39;s Bizarre Adventure</title>
-      <link>http://localhost:1313/content/archives.fr/</link>
+      <link>//localhost:1313/content/archives.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/content/archives.fr/</guid>
+      <guid>//localhost:1313/content/archives.fr/</guid>
       <description>A Timeless Tale of Family, Fate, and Fabulousness</description>
     </item>
     <item>
       <title>Kaiju No. 8</title>
-      <link>http://localhost:1313/content/posts/emoji-support/</link>
+      <link>//localhost:1313/content/posts/emoji-support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/content/posts/emoji-support/</guid>
+      <guid>//localhost:1313/content/posts/emoji-support/</guid>
       <description>An Action-Packed Monster Thriller</description>
     </item>
     <item>
       <title>Sakamoto Days</title>
-      <link>http://localhost:1313/content/posts/math-typesetting/</link>
+      <link>//localhost:1313/content/posts/math-typesetting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/content/posts/math-typesetting/</guid>
+      <guid>//localhost:1313/content/posts/math-typesetting/</guid>
       <description>A Hilarious and Action-Packed Ride</description>
     </item>
     <item>
       <title>Vinland Saga</title>
-      <link>http://localhost:1313/content/posts/markdown-syntax.fa/</link>
+      <link>//localhost:1313/content/posts/markdown-syntax.fa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/content/posts/markdown-syntax.fa/</guid>
+      <guid>//localhost:1313/content/posts/markdown-syntax.fa/</guid>
       <description>Anime and Manga Details</description>
     </item>
   </channel>

@@ -2,109 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/content/</loc>
+    <loc>//localhost:1313/content/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/content/posts/papermod/</loc>
+    <loc>//localhost:1313/content/posts/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/new-blog-post/</loc>
+    <loc>//localhost:1313/posts/new-blog-post/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/about-me/</loc>
+    <loc>//localhost:1313/tags/about-me/</loc>
   </url><url>
-    <loc>http://localhost:1313/content/posts/papermod/papermod-installation/</loc>
+    <loc>//localhost:1313/content/posts/papermod/papermod-installation/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/action/</loc>
+    <loc>//localhost:1313/tags/action/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/adventure/</loc>
+    <loc>//localhost:1313/tags/adventure/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/anime/</loc>
+    <loc>//localhost:1313/tags/anime/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/ao-ashi/</loc>
+    <loc>//localhost:1313/tags/ao-ashi/</loc>
   </url><url>
-    <loc>http://localhost:1313/content/search.fr/</loc>
+    <loc>//localhost:1313/content/search.fr/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/berserk/</loc>
+    <loc>//localhost:1313/tags/berserk/</loc>
   </url><url>
-    <loc>http://localhost:1313/content/posts/markdown-syntax.fr/</loc>
+    <loc>//localhost:1313/content/posts/markdown-syntax.fr/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/blame/</loc>
+    <loc>//localhost:1313/tags/blame/</loc>
   </url><url>
-    <loc>http://localhost:1313/content/posts/rich-content/</loc>
+    <loc>//localhost:1313/content/posts/rich-content/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/comedy/</loc>
+    <loc>//localhost:1313/tags/comedy/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/coming-of-age/</loc>
+    <loc>//localhost:1313/tags/coming-of-age/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/cyberpunk/</loc>
+    <loc>//localhost:1313/tags/cyberpunk/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/dandadan/</loc>
+    <loc>//localhost:1313/tags/dandadan/</loc>
   </url><url>
-    <loc>http://localhost:1313/content/posts/markdown-syntax/</loc>
+    <loc>//localhost:1313/content/posts/markdown-syntax/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/dark-drama/</loc>
+    <loc>//localhost:1313/tags/dark-drama/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/dark-fantasy/</loc>
+    <loc>//localhost:1313/tags/dark-fantasy/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/dr.-stone/</loc>
+    <loc>//localhost:1313/tags/dr.-stone/</loc>
   </url><url>
-    <loc>http://localhost:1313/content/archives/</loc>
+    <loc>//localhost:1313/content/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/goodnight-punpun/</loc>
+    <loc>//localhost:1313/tags/goodnight-punpun/</loc>
   </url><url>
-    <loc>http://localhost:1313/content/search/</loc>
+    <loc>//localhost:1313/content/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/historical/</loc>
+    <loc>//localhost:1313/tags/historical/</loc>
   </url><url>
-    <loc>http://localhost:1313/content/posts/papermod/papermod-features/</loc>
+    <loc>//localhost:1313/content/posts/papermod/papermod-features/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/hunter-x-hunter/</loc>
+    <loc>//localhost:1313/tags/hunter-x-hunter/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/jojos-bizarre-adventure/</loc>
+    <loc>//localhost:1313/tags/jojos-bizarre-adventure/</loc>
   </url><url>
-    <loc>http://localhost:1313/content/archives.fr/</loc>
+    <loc>//localhost:1313/content/archives.fr/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/kaiju-no.-8/</loc>
+    <loc>//localhost:1313/tags/kaiju-no.-8/</loc>
   </url><url>
-    <loc>http://localhost:1313/content/posts/emoji-support/</loc>
+    <loc>//localhost:1313/content/posts/emoji-support/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/manga/</loc>
+    <loc>//localhost:1313/tags/manga/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/one-piece/</loc>
+    <loc>//localhost:1313/tags/one-piece/</loc>
   </url><url>
-    <loc>http://localhost:1313/content/posts/code_syntax/</loc>
+    <loc>//localhost:1313/content/posts/code_syntax/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/papermod/</loc>
+    <loc>//localhost:1313/tags/papermod/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/personal/</loc>
+    <loc>//localhost:1313/tags/personal/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>//localhost:1313/posts/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/sakamoto-days/</loc>
+    <loc>//localhost:1313/tags/sakamoto-days/</loc>
   </url><url>
-    <loc>http://localhost:1313/content/posts/math-typesetting/</loc>
+    <loc>//localhost:1313/content/posts/math-typesetting/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/sci-fi/</loc>
+    <loc>//localhost:1313/tags/sci-fi/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/science/</loc>
+    <loc>//localhost:1313/tags/science/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/soccer/</loc>
+    <loc>//localhost:1313/tags/soccer/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/sports/</loc>
+    <loc>//localhost:1313/tags/sports/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/supernatural/</loc>
+    <loc>//localhost:1313/tags/supernatural/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/thriller/</loc>
+    <loc>//localhost:1313/tags/thriller/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/vinland-saga/</loc>
+    <loc>//localhost:1313/tags/vinland-saga/</loc>
   </url><url>
-    <loc>http://localhost:1313/content/posts/markdown-syntax.fa/</loc>
+    <loc>//localhost:1313/content/posts/markdown-syntax.fa/</loc>
   </url>
 </urlset>
